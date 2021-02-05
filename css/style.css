@@ -1,0 +1,53 @@
+/*-------------------------- background -----------------------------------*/
+
+/*Ejemplo de selecto de elemento*/
+body {
+    background-color: #4b0081;
+}
+
+/*--------------------------- Título ----------------------------------------*/
+
+/*Ejemplo de selecto de clase, color y tamaño de letra*/
+.primer_titulo{
+    color: #ffffff;
+    font-size: 50px;
+    width: 300px;
+    
+}
+/*-------------------- Primero y Segundo párrafo ----------------------------*/
+
+/*Ejemplo de selector de clase*/
+.primer_parrafo {
+    color: #9032bb;
+}
+
+/* Ejemplo de selector ID*/
+#segundo_parrafo {
+    color: #af69cd; 
+}
+/*----------------------------------------------------------------------------*/
+
+/*-------------------- Tercero y curto párrafo -------------------------------*/
+
+/*Ejemplo de selector de clase*/
+.tercer_parrafo {
+    color: #cb9bde;
+}
+
+/* Ejemplo de selector ID*/
+#cuarto_parrafo {
+    color: #e6ccef;
+}
+/*----------------------------------------------------------------------------*/
+
+/*-------------------- Quinto y sexto párrafo --------------------------------*/
+
+/*Ejemplo de selector de clase*/
+.quinto_parrafo {
+    color: #e8d1e7;
+}
+
+/* Ejemplo de selector ID*/
+#sexto_parrafo {
+    color: #f4e8f3;
+}
